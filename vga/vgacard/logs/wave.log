@@ -1,0 +1,204 @@
+GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+Date: Thu Jul 11 00:03:54 2019
+
+
+gtkwave
+	-O
+	logs/wave.log
+	dumpfile.vcd
+
+
+
+GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+
+[0] start time.
+[60000100] end time.
+[0] start time.
+[60000100] end time.
+[0] start time.
+[60000100] end time.
+[0] start time.
+[60000100] end time.
+[0] start time.
+[60000100] end time.
+[0] start time.
+[60000100] end time.
+[0] start time.
+[60000100] end time.
+[0] start time.
+[60000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+[0] start time.
+[20000100] end time.
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+GTKWAVE | Reloading waveform...
+GTKWAVE | ...waveform reloaded
+WM Destroy

@@ -1,0 +1,17 @@
+
+-- Parsing `data/synthesize.il' using frontend `ilang' --
+
+1. Executing ILANG frontend.
+Input filename: data/synthesize.il
+
+-- Running command `show -format dot -viewer xdot -prefix data/show' --
+
+2. Generating Graphviz representation of design.
+Writing dot description to `data/show.dot'.
+Dumping module counter to page 1.
+Exec: xdot 'data/show.dot' &
+
+End of script. Logfile hash: 1b2724a1b8
+CPU: user 0.02s system 0.02s, MEM: 22.17 MB total, 4.46 MB resident
+Yosys 0.7 (git sha1 61f6811, gcc 6.2.0-11ubuntu1 -O2 -fdebug-prefix-map=/build/yosys-OIL3SR/yosys-0.7=. -fstack-protector-strong -fPIC -Os)
+Time spent: 99% 1x show (0 sec), 0% 1x read_ilang (0 sec)
