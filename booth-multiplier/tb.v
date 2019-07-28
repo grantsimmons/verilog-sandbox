@@ -1,6 +1,6 @@
 `timescale 1ns / 1ns
 module tb;
-    localparam OPERAND_BITS = 4;
+    localparam OPERAND_BITS = 8;
     reg clk;
     reg signed [OPERAND_BITS - 1:0] mul1;
     reg signed [OPERAND_BITS - 1:0] mul2;

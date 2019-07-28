@@ -49,31 +49,14 @@ module booth #(parameter OPERAND_BITS = 4) (
         end
         if (n < OPERAND_BITS + 1 && n != 0) begin
             case(op)
-                2'b00: begin 
-                    {A, Q, q0} = {A, Q, q0} >> 1;
-                    A[OPERAND_BITS - 1] <= A[OPERAND_BITS - 2];
-                    end
-                2'b01: begin 
-                    A = A - M;
-                    {A, Q, q0} = {A, Q, q0} >> 1;
-                    A[OPERAND_BITS - 1] <= A[OPERAND_BITS - 2];
-                    end
-                2'b10: begin 
-                    A = A + M;
-                    {A, Q, q0} = {A, Q, q0} >> 1;
-                    A[OPERAND_BITS - 1] <= A[OPERAND_BITS - 2];
-                    end
-                2'b11: begin 
-                    {A, Q, q0} = {A, Q, q0} >> 1;
-                    A[OPERAND_BITS - 1] <= A[OPERAND_BITS - 2];
-                    end
-                default: begin
-                    { A, Q, q0 } <= { A, Q, q0 } >> 1;
-                    A[OPERAND_BITS - 1] = A[OPERAND_BITS - 2];
-                    end
+                2'b01: A = A - M;
+                2'b10: A = A + M;
+                default: A = A;
             endcase
+            {A, Q, q0} = {A, Q, q0} >> 1;
+            A[OPERAND_BITS - 1] <= A[OPERAND_BITS - 2];
         end
-        if(n == 1 || n == 0) begin
+        if(n <= 1) begin
             ready <= 1;
             n = 0;
         end
